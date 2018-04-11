@@ -1,0 +1,9 @@
+{
+          "name": "skillsharing",
+          "version": "1.0.0",
+          "main": "skillsharing_server.js",
+          "description": "description",
+          "dependencies": {
+                    "ecstatic": "^3.1.0"
+          }
+}
